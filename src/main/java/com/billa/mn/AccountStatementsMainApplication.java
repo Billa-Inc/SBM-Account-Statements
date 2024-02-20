@@ -1,4 +1,4 @@
-package com.service.mn;
+package com.billa.mn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
